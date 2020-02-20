@@ -1,0 +1,9 @@
+names=['Helen','Eric','Amy','Sam']
+message="Hello,"+names[0]+"."
+print(message)
+message="Hello,"+names[1]+"."
+print(message)
+message="Hello,"+names[2]+"."
+print(message)
+message="Hello,"+names[3]+"."
+print(message)
